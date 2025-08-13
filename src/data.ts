@@ -40,7 +40,7 @@ export const projects = [
     title: "Online Pizza Ordering App",
     text: "A responsive web application that allows users to browse pizzas, add them to a cart, and place orders. Built with a focus on performance and user experience.",
     image: pizza,
-    url: "https://www.go-danang.com/",
+    url: "https://pizza-theta-teal.vercel.app/",
   },
   {
     id: 3,
