@@ -48,7 +48,11 @@ export const About: React.FC = () => (
     <AboutGrid>
       <AvatarCard>
         <AvatarCircle>
-          <img style={{ maxWidth: "120%" }} src={avatar} alt="Avatar" />
+          <img
+            style={{ maxWidth: "120%", marginTop: "150px" }}
+            src={avatar}
+            alt="Avatar"
+          />
         </AvatarCircle>
       </AvatarCard>
       <div>
